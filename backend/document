@@ -1,0 +1,9 @@
+express: Web framework
+mysql2: MySql client library
+sequelize: ORM for MySql
+dotenv: to load envirnoment variable from .env file
+bcryptis: for password hashing
+jsonwebtoken: for creating and verifying JWTs
+multer: for handling multipart/form data(file uploads)
+nodemon: (Dev dependency)Automarically restart the server on file changes
+
