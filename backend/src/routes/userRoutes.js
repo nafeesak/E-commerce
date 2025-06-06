@@ -6,7 +6,7 @@ const {
     registerUser,
     getUserProfile,
     updateUserProfile,
-}=require('../middleware/authMiddleware');
+}=require('../controllers/userController');
 
 const {protect}=require('../middleware/authMiddleware');
 
